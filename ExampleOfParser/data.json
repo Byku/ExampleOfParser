@@ -1,0 +1,32 @@
+{
+"rows": [
+        {
+            "meta": {
+                "type": "Gallery"
+            },
+            "address": "dom 1",
+            "artCount": 5
+        },
+        {
+            "meta": {
+                "type": "Shop"
+            },
+            "address": "dom 2",
+            "isDIY": false
+        },
+        {
+            "meta": {
+                "type": "Tower"
+            },
+            "address": "dom 3",
+            "height": 253.4
+        },
+        {
+            "meta": {
+                "type": "Shop"
+            },
+            "address": "dom 3",
+            "isDIY": true
+        }
+    ]
+}
